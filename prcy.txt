@@ -1,0 +1,86 @@
+Privacy Policy
+Version last revised: April 30th 2024
+
+Introduction
+
+This Privacy Policy outlines how we handle the personal information we collect from you when you use our mobile application (the "App"). Please review this Privacy Policy carefully to understand how we protect your privacy. By using the App, you agree to the terms of this Privacy Policy. We may update this policy from time to time. Any changes will be communicated by posting the updated policy on the App or our website, and through other appropriate communication channels. Your continued use of the App after any changes indicates your acceptance of the new terms.
+
+1. Important contact information
+
+App name：Block Shifter Challenge
+email：zhangce0712@163.com
+
+2. Introduction and purpose of this Privacy Notice
+
+When you use our products and services, including websites or mobile apps, we will process certain personal data that concerns you.  ‘Process’ or ‘processing’ as used in this Privacy Notice includes any operation performed on personal data or on sets of personal data, like collection, storage, organisation, retrieval, updating, amending, deletion, consultation, use, sharing or making available internally or to others.
+
+3. Lawful basis of processing
+
+We process the aforementioned data based on our legitimate business interests, which include expanding our business, acquiring new customers and revenue streams, developing new and improved apps and games, and enhancing our market share, reputation, and brands. Additionally, we may process personal data pursuant to a contract with you or a third party, such as Apple or Google, or to fulfill a legal obligation. If we have not specified another lawful basis for processing besides legitimate interest, you have the right to object to the processing of your personal data.
+
+4. Rights of EU Residents
+
+Residents of the European Economic Area (EEA) have additional rights, including the right to request copies of their personal data and to lodge complaints with local data protection authorities. Data may be transferred outside the EEA to jurisdictions with differing levels of protection, and by using the App, you explicitly consent to such transfers. You may revoke your consent at any time
+
+5. Collection and Processing of Personal Data
+
+When you visit one of our websites, including [domain], we may collect your IP address. This information is processed to provide you with access to the website, enhance your browsing experience, and improve overall user experience.
+If you use one of our mobile apps, in addition to the above, we may collect your Apple or Google User ID, specific user behavior characteristics, advertising preferences, technical device data, and more. This data allows us to optimize your experience, ensure the security of your user and personal data, and improve our mobile apps. We may request your permission before accessing this data, and the level of access may depend on your device's privacy settings.
+When you purchase goods or services directly from us, such as a license for in-game virtual currency or items, our third-party payment processor will collect billing and financial information needed to process your charges. This may include sales information, bank account or credit card details, and more. They process this data to facilitate your payment, identify you, prevent fraud, and protect both you and us. Please note that third-party purchases may also be subject to their own policies, as outlined in our Terms of Service.
+
+6. Cookies, analytics and automated information collection
+
+We and service providers acting on our behalf, store log files and use tracking technologies such as:
+- tracking pixels, which allow us or our advertising partners to advertise more efficiently and effectively; and
+- local shared objects, also known as flash cookies, which help us to reduce fraud, remember your in-game preferences and speed up load times.
+- IP addresses;
+- the type of computer or mobile device you are using;
+- your operating system version;
+- your mobile device’s identifiers, like your MAC Address, Identifier For Advertising (IDFA), and/or International Mobile Equipment Identity (IMEI);
+- your device types;
+- your device language;
+- In some cases, we will connect this information with your social network ID orTactica  player ID.
+In some instances, we may associate this information with your social network ID orTactica player ID. Please note that companies delivering advertisements on our services may also use cookies or similar technologies, subject to their own policies. For more information on how third parties may use your data, please refer to Appendix A.
+
+7. Third-Party Service Providers
+
+We will share your information with third-party companies to perform services on our behalf, like processing payments, analyzing data, optimizing game play, e-mail delivery, hosting services, customer service and to help us in our marketing efforts, including managing and delivering contextual and tailored advertisements. We contractually require these third-party service providers to maintain the confidentiality of the information we share with them, and we contractually require them not use your information for anything other than to provide services on our behalf.
+
+8. Sharing Your Information
+
+We may disclose or publish aggregated information, which includes data about you and other players collectively, for industry analysis, demographic profiling, marketing, analytics, advertising, and other business purposes. Additionally, we may share your information, including personal information, with third parties or allow them to collect this information from our services.
+
+9. Privacy Policies of Linked Third-Party Services and Advertisers
+Our websites and games may feature advertisements from Third-Party Services, companies other than App, which may link to their own websites, online services, or mobile applications. We are not responsible for the privacy practices or content of these Third-Party Services. If you have questions about how these services use your information, please review their policies and contact them directly.
+
+10. Personal data concerning you that we may process on behalf of others
+
+For personalized advertisement experiences, advertising networks and their partners, including those listed below, may collect or receive device information from our apps and others. This information may include personal and non-personal data such as ad identifiers, IP addresses, or details regarding ad delivery and interaction. They may use this data for measurement services, personalization, ad selection, delivery, reporting, and optimization of targeted ads. You can access their respective privacy notices using the hyperlinks provided below to learn more about how they handle your data.
+
+11. Protection of Children's Information
+
+We do not knowingly collect information from children under the age of 13 (or under 16 in the EEA). If a parent or guardian believes their child has provided us with personal information without consent, they should contact us immediately, and we will take steps to remove such information.
+
+12. Retention of Information
+
+We retain your information for the period necessary to fulfill the purposes for which it was collected, to comply with legal obligations, or until you request its deletion. Your information will be stored for the duration of your interaction with the mobile application provided as part of our services. After that period, information will be permanently deleted or de-identified for analytics use.
+
+13. Security of Your Information
+
+We implement security measures to protect your information both online and offline. We use industry-standard security measures, including physical, administrative, and technical safeguards, as well as encryption where necessary, to prevent unauthorized access, disclosure, alteration, and destruction of your information.
+While we take precautions against security breaches, we cannot guarantee the security of your information during transmission to our services. Any transmission is at your own risk. If you have questions about the security of our websites, please contact us at Email.
+
+14. Your rights
+
+The applicable data protection laws give you certain specific rights in relation to the processing of personal data that concerns you.
+Please note that not all these apply in all circumstances.  However, you are always welcome to contact us with any request relating to processing of your personal data. Even where we are not obliged by law to comply with your request, we will try to accommodate your wishes.
+- Access – you have the right to access personal data concerning you and certain information about how and why we are processing it;
+- Rectification – you have the right to have any inaccurate or incomplete personal data rectified without undue delay;
+- Erasure – Sometimes called the ‘right to be forgotten’, in certain circumstances, you have the right to have personal data that concerns you erased without undue delay;
+- Restriction – in certain circumstances, you have the right to have our processing of personal data concerning you restricted;
+- Data portability – in certain limited circumstances, you have the right to receive any personal data concerning you that you have provided to us, in a structured, commonly-used and machine-readable format, and the right to transmit those data to another controller without hindrance; and
+- Objection – in certain circumstances, you have the right to object to the processing of personal data carried out by us or on our behalf where it concerns you.
+
+15. Contact Us
+
+If you have any questions about your personal data or this Privacy Policy, please contact us at zhangce0712@163.com
